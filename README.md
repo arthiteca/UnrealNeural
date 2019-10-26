@@ -1,9 +1,2 @@
-# Generating an interactive Pix2Pix model with Gradient° and ml5.js
-
-Companion code for the blog post [Generating an interactive Pix2Pix model with Gradient° and ml5.js]().
-
-This code is based on [github.com/ml5js/training-pix2pix](https://github.com/ml5js/training-pix2pix) with some modifications to work with Gradient°.
-
-## License
-
-MIT
+# pix2pix-ml5-demo<br/>
+[blog post](https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224)
